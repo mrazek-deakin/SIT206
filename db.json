@@ -1,7 +1,7 @@
 {
     "trips": [
-              { "tripDestination": "Melbourne", "tripDuration": 5 , "tripDate" : "2018/10/10" , "img" : "Melbourne" },
-              { "tripDestination": "Sydney", "tripDuration": 15 , "tripDate" : "2017/11/10" , "img" : "Sydney" },
-              { "tripDestination": "Adelaide", "tripDuration": 10 , "tripDate" : "2017/09/10" , "img" : "Adelaide" }
+              { "tripDestination": "Melbourne", "tripDuration": 5 , "tripDate" : "2018/10/10" , "tripImageURL" : "Melbourne" },
+              { "tripDestination": "Sydney", "tripDuration": 15 , "tripDate" : "2017/11/10" , "tripImageURL" : "Sydney" },
+              { "tripDestination": "Adelaide", "tripDuration": 10 , "tripDate" : "2017/09/10" , "tripImageURL" : "Adelaide" }
             ]
 }
